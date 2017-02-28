@@ -1,0 +1,34 @@
+#Binary Files
+*.bin
+*.hex
+*.eep
+*.cof
+*.elf
+*.map
+*.sym
+*.lss
+*.o
+*.lst
+*.d
+
+#Project Files
+.cproject
+.autotools
+.project
+.settings
+.DS_Store
+
+#Temporary Files
+*~
+~*
+*#
+.#*
+
+#Target
+phoenix
+
+#Ignore Generic Makefile
+makefile
+
+#Ignore ctags
+.tags*
