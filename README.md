@@ -1,4 +1,4 @@
-# Phoenix Drone Flight Software
+# Phoenix Drone Flight Software by Jordi Vila Hernández de Lorenzo
 Flight software for the Phoenix Drone project, running on an ATmega328p.
 
 ![Phoenix](phoenix.png)
