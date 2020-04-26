@@ -1,6 +1,6 @@
 # Phoenix Drone Flight Software by Jordi Vila Hernández de Lorenzo
-Flight software for the Phoenix Drone project, running on an ATmega328p.
-See PhysicsAndCommunication.pdf to better understand the software that implements the mechanics of flight control software
+Flight software for the Phoenix Drone project, running on an ATmega328p.<br/><br/>
+**&rarr; See PhysicsAndCommunication.pdf** document to better understand the software that implements the mechanics of flight control software**
 
 ![Phoenix](phoenix.png)
 
